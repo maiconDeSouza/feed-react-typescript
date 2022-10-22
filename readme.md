@@ -35,7 +35,7 @@
 <h4>Front end</h4>
 <ul>
 	<li>REACT</li>
-	
+	<li>TYPESCRIPT</li>
 </ul>
 <hr>
 <h2>Como executar o projeto</h2>
