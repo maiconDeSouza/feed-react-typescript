@@ -10,7 +10,7 @@
 <h2>Sobre o projeto</h2>
 
 <p>
-    Projeto feito com reactJS.
+    Este projeto primeiramente foi feito apenas com reactJS e JAVASCRIPT puro. Nesta versão portei para TypeScript.
 </p>
 <p>
     Com base nas aulas do Ignite da Rocketseat.
