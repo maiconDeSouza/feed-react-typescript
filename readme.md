@@ -22,7 +22,6 @@
 <h2>Layout Mobile</h2>
 <img
     align="center"
-    width="300"
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/feed/feed-mobile.gif"
 />
 
