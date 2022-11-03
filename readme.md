@@ -1,5 +1,5 @@
 <h1>
-	Sidebar
+	feed-react-typescript
 	<img 
 		align="right"
 		width="150"
