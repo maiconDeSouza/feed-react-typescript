@@ -1,6 +1,11 @@
 import styles from './Image.module.css'
 
-export function Image({avatar, comment}){
+interface PropsImage{
+    avatar: string;
+    comment: string;
+}
+
+export function Image({avatar, comment}:PropsImage){
     return (
         <img 
             className={styles[comment]}
