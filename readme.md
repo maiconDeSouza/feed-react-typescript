@@ -15,6 +15,15 @@
 <p>
     Com base nas aulas do Ignite da Rocketseat.
 </p>
+
+<p>
+    Acesse o  <a href="https://crazylogin.maiconsouza.com.br/">Projeto</a> 
+</p>
+
+<p>
+    Acesse o meu  <a href="https://portfolio.maiconsouza.com.br/">Portfólio</a> 
+</p>
+
 <img 
     src="https://raw.githubusercontent.com/maiconDeSouza/assets/master/feed/feed.gif"
 />
